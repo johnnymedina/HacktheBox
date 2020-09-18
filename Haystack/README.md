@@ -110,4 +110,5 @@ From that we now have our user and password combo to try on another service like
 
 ## Post Exploitation
 Then just run cat or strings to get the flag
+
 ```cat flag.txt```
